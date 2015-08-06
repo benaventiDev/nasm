@@ -11,8 +11,8 @@
 #  REQUIREMENTS: ---
 #          BUGS: ---
 #         NOTES: ---
-#        AUTHOR: James Zhu (000), jzhu@blizzard.com
-#  ORGANIZATION: Blizzard Entertainment
+#        AUTHOR: James Zhu (000), jzhu@JZ.com
+#  ORGANIZATION: JZ Entertainment
 #       CREATED: 01/14/2014 03:46:16 PM CST
 #      REVISION:  ---
 #===============================================================================
