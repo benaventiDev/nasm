@@ -1,0 +1,8 @@
+# Linux System Call
+https://sysdig.com/blog/fascinating-world-linux-system-calls/
+
+# 我的汇编学习之路（1）：指令
+http://blog.jobbole.com/84776/
+
+# 我的汇编学习之路（2）：主要术语和概念
+http://blog.jobbole.com/84815/
