@@ -6,3 +6,6 @@ http://blog.jobbole.com/84776/
 
 # 我的汇编学习之路（2）：主要术语和概念
 http://blog.jobbole.com/84815/
+
+# How does GNU GRUB work
+https://0xax.github.io/
