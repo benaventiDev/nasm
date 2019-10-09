@@ -5,7 +5,9 @@ all:
 	ld -m elf_i386 -s -o arithmetic_hardcode arithmetic_hardcode.o
 	nasm -f elf arithmetic_mul.asm
 	ld -m elf_i386 -s -o arithmetic_mul arithmetic_mul.o
+	nasm -f elf arithmetic_div.asm
+	ld -m elf_i386 -s -o arithmetic_div arithmetic_div.o
 
 clean:
 	rm -rf *.o
-	rm -rf arithmetic01 arithmetic_mul arithmetic_hardcode
+	rm -rf arithmetic01 arithmetic_mul arithmetic_hardcode arithmetic_div
